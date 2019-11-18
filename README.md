@@ -1,7 +1,7 @@
 # Dsim_sex-specific_adaptation
 This repository contains the raw count table of in total 15 RNA-Seq libraries as well as the full R script for all the analyses in the following manuscript.
 
-<b>Title: Rapid sex-specific adaptation to high temperature in <i>Drosophila</b>
+<b>Title: Rapid sex-specific adaptation to high temperature in <i>Drosophila</i></b>
 
 Authors: Sheng-Kai Hsu, Ana Marija Jakšić, Viola Nolte, Manolis Lirakis, Robert Kofler, Neda Barghi, Elisabetta Versace and Christian Schlötterer*
 
