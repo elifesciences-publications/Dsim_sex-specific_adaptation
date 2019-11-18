@@ -13,5 +13,6 @@ Department of Biological and Experimental Psychology, Queen Mary University of L
 *Correspondence: christian.schloetterer@vetmeduni.ac.at; Tel.: +43-1-25077-4300.
 
 
-Abstract
+<b>Abstract</b>
+
 The pervasive occurrence of sexual dimorphism demonstrates different adaptive strategies of males and females. While different reproductive strategies of the two sexes are well-characterized, very little is known about differential functional requirements of males and females in their natural habitats. Here, we study the impact environmental change on the selection response in both sexes. Exposing replicated Drosophila populations to a novel temperature regime, we demonstrate sex-specific changes in gene expression, metabolic and behavioral phenotypes in less than 100 generations. This indicates not only different functional requirements of both sexes in the new environment but also rapid sex-specific adaptation. Supported by computer simulations we propose that altered sex-biased gene regulation from standing genetic variation, rather than new mutations, is the driver of rapid sex-specific adaptation. Our discovery of environmentally driven divergent functional requirements of males and females has important implications-possibly even for gender aware medical treatments. 
