@@ -6,13 +6,10 @@ This repository contains the raw data as well as the full R script for all the a
 Authors: Sheng-Kai Hsu, Ana Marija Jakšić, Viola Nolte, Manolis Lirakis, Robert Kofler, Neda Barghi, Elisabetta Versace and Christian Schlötterer*
 
 <p style="font-size:50%;">
-Institut für Populationsgenetik, Vetmeduni Vienna, Vienna, Austria.<br>  
-Vienna Graduate School of Population Genetics, Vetmeduni Vienna, Vienna, Austria
-
-Current affiliation: Department for Molecular Biology and Genetics, Cornell University, NY, USA.
-
-Department of Biological and Experimental Psychology, Queen Mary University of London, London, UK.
-
+Institut für Populationsgenetik, Vetmeduni Vienna, Vienna, Austria.<br>
+Vienna Graduate School of Population Genetics, Vetmeduni Vienna, Vienna, Austria.<br>
+Current affiliation: Department for Molecular Biology and Genetics, Cornell University, NY, USA.<br>
+Department of Biological and Experimental Psychology, Queen Mary University of London, London, UK.<br>
 *Correspondence: christian.schloetterer@vetmeduni.ac.at; Tel.: +43-1-25077-4300.
 
 
