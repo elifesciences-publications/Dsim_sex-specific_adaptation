@@ -3,6 +3,8 @@ This repository contains the raw data as well as the full R script for all the a
 
 <b>Title: Rapid sex-specific adaptation to high temperature in <i>Drosophila</i></b>
 
+eLife, 2020: http://dx.doi.org/10.7554/eLife.53237
+
 Authors: Sheng-Kai Hsu, Ana Marija Jakšić, Viola Nolte, Manolis Lirakis, Robert Kofler, Neda Barghi, Elisabetta Versace and Christian Schlötterer*
 
 <p style="font-size:50%;">
